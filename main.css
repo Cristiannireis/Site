@@ -50,7 +50,7 @@
         justify-content: space-between;
 }
 
-/*sessão sobre*/
+/*seção sobre*/
 header .container,
 section .container {
     display: flex;
@@ -93,4 +93,14 @@ section p {
 .store-front {
     margin-right: 32px;
     width: 50%;
+}
+
+/*seção contato*/
+#contact .container {
+    display: block;
+}
+
+.contact-methods {
+    display: flex;
+    justify-content: space-between;
 }
